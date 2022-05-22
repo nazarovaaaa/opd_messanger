@@ -1,0 +1,96 @@
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Messanger.exe
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Messanger.deps.json
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Messanger.runtimeconfig.json
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Messanger.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\ref\Messanger.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Messanger.pdb
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Humanizer.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Npgsql.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.AssemblyInfoInputs.cache
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.AssemblyInfo.cs
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.csproj.CoreCompileInputs.cache
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.csproj.CopyComplete
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\ref\Messanger.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.pdb
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.genruntimeconfig.cache
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\OPD EF\obj\Debug\net6.0\Messanger.csproj.AssemblyReference.cache
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Messanger.exe
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Messanger.deps.json
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Messanger.runtimeconfig.json
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Messanger.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\ref\Messanger.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Messanger.pdb
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Humanizer.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Npgsql.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.csproj.AssemblyReference.cache
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.AssemblyInfoInputs.cache
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.AssemblyInfo.cs
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.csproj.CoreCompileInputs.cache
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.csproj.CopyComplete
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\ref\Messanger.dll
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.pdb
+C:\Users\konstantikov\Desktop\OPD-EntityFramework-main\Messanger\obj\Debug\net6.0\Messanger.genruntimeconfig.cache
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Messanger.exe
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Messanger.deps.json
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Messanger.runtimeconfig.json
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Messanger.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Messanger.pdb
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.csproj.AssemblyReference.cache
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.AssemblyInfoInputs.cache
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.AssemblyInfo.cs
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.csproj.CoreCompileInputs.cache
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.csproj.CopyComplete
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\refint\Messanger.dll
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.pdb
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\Messanger.genruntimeconfig.cache
+C:\Users\Артем Н\Downloads\Messanger\Messanger\Messanger\obj\Debug\net6.0\ref\Messanger.dll
